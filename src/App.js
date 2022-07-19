@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  window.location = "https://discord.gg/RWnNZff4PJ";
   return (
     <div className="App">
       <header className="App-header">
