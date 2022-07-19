@@ -17,7 +17,7 @@ function App() {
             fontSize: '21px'}}>
             {">"} <code>Website</code>
           </button>
-        </a>
+        </a> 
         <a href="https://discord.gg/RWnNZff4PJ"><button style={{
             border: 'none',
             background: '#272727',
